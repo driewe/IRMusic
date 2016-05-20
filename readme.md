@@ -16,3 +16,7 @@ Now if your using codebender you will need to upload the modified version of Ken
 
 
 [Source Code.](https://github.com/driewe/IRMusic/blob/master/sourcecode/IR_Music.ino)
+
+Most likely you will not have the same controller that I have.  Therefore, use the receiving ir example from the library to discover the unique codes for your controller then replace them in the source code.
+
+[Sparkfun IR Tutorial](https://learn.sparkfun.com/tutorials/ir-communication)
